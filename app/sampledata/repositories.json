@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 513275455,
+      "name": "BuinessCard",
+      "owner": {
+        "login": "wtsntc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101361559?v=4"
+      },
+      "html_url": "https://github.com/wtsntc/BuinessCard",
+      "description": "App de Cartão de Visitas em Kotlin",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 498907286,
+      "name": "dio-desafio-github-primeiro-repositorio",
+      "owner": {
+        "login": "wtsntc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101361559?v=4"
+      },
+      "html_url": "https://github.com/wtsntc/dio-desafio-github-primeiro-repositorio",
+      "description": "Desafio de Projeto sobre Git/Github",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 472929745,
+      "name": "matches-simulator-api",
+      "owner": {
+        "login": "wtsntc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101361559?v=4"
+      },
+      "html_url": "https://github.com/wtsntc/matches-simulator-api",
+      "description": "Repositório que simula uma API REST para obtenção de partidas",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 468489099,
+      "name": "matches-simulator-app",
+      "owner": {
+        "login": "wtsntc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101361559?v=4"
+      },
+      "html_url": "https://github.com/wtsntc/matches-simulator-app",
+      "description": "App Android Nativo de Simulação de Partidas",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 508067737,
+      "name": "redonda-news-api",
+      "owner": {
+        "login": "wtsntc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101361559?v=4"
+      },
+      "html_url": "https://github.com/wtsntc/redonda-news-api",
+      "description": "API (Provida via GitHub Pages) do App \"Redonda News\"",
+      "stargazers_count": 0,
+      "language": null
+    },
+    {
+      "id": 508063080,
+      "name": "redonda-news-app",
+      "owner": {
+        "login": "wtsntc",
+        "avatar_url": "https://avatars.githubusercontent.com/u/101361559?v=4"
+      },
+      "html_url": "https://github.com/wtsntc/redonda-news-app",
+      "description": "App Nativo Android de Notícias sobre Futebol Feminino",
+      "stargazers_count": 0,
+      "language": "Java"
+    }
+  ]
+}
